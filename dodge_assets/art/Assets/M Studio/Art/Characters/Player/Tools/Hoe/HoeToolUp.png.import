@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://xu80euai03sd"
+path="res://.godot/imported/HoeToolUp.png-f4cbbb11c2611af51ddaf2fe5cbf34b2.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://dodge_assets/art/Assets/M Studio/Art/Characters/Player/Tools/Hoe/HoeToolUp.png"
+dest_files=["res://.godot/imported/HoeToolUp.png-f4cbbb11c2611af51ddaf2fe5cbf34b2.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1

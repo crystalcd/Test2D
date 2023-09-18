@@ -1,0 +1,969 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1695040624
+default_env.tres::Environment::5352545471644875764::1695040624::0::1::::<><>::
+icon.png::CompressedTexture2D::1328865223138093745::1515211774::1694701539::1::::<><>::
+Main.gd::GDScript::-1::1694707367::0::1::::<>Node<>::
+MySignal.gd::GDScript::-1::1694963759::0::1::::<>Node<>::
+Sprite2D.gd::GDScript::-1::1694963527::0::1::::<>Sprite2D<>::
+::res://assets/::1694701539
+ballBlue_10.png::CompressedTexture2D::596226598093292402::1428905124::1694701539::1::::<><>::
+Bouncy Platform Long.png::CompressedTexture2D::1096747614336984541::1507554158::1694701539::1::::<><>::
+Bouncy Platform Medium.png::CompressedTexture2D::8831068311194480259::1507554160::1694701539::1::::<><>::
+::res://dodge_assets/::1694965052
+::res://dodge_assets/art/::1695053249
+enemyFlyingAlt_1.png::CompressedTexture2D::8240649069494502048::1694965052::1694965052::1::::<><>::
+enemyFlyingAlt_2.png::CompressedTexture2D::7869970786567798733::1694965052::1694965052::1::::<><>::
+enemySwimming_1.png::CompressedTexture2D::8741095977444203838::1694965052::1694965052::1::::<><>::
+enemySwimming_2.png::CompressedTexture2D::9067366990755995370::1694965052::1694965052::1::::<><>::
+enemyWalking_1.png::CompressedTexture2D::4293603337593831738::1694965052::1694965052::1::::<><>::
+enemyWalking_2.png::CompressedTexture2D::6482040719965787108::1694965052::1694965052::1::::<><>::
+gameover.wav::AudioStreamWAV::2532682586195483407::1694965052::1694965052::1::::<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::6274902299668712413::1694965052::1694965052::1::::<><>::
+playerGrey_up1.png::CompressedTexture2D::5185124529651106482::1694965052::1694965052::1::::<><>::
+playerGrey_up2.png::CompressedTexture2D::3222857518962157863::1694965052::1694965052::1::::<><>::
+playerGrey_walk1.png::CompressedTexture2D::2674970907339290152::1694965052::1694965052::1::::<><>::
+playerGrey_walk2.png::CompressedTexture2D::2183509970597791965::1694965052::1694965052::1::::<><>::
+::res://dodge_assets/art/Assets/::1695053251
+::res://dodge_assets/art/Assets/Animations/::1695053251
+::res://dodge_assets/art/Assets/Animations/Animator/::1695053251
+::res://dodge_assets/art/Assets/Animations/Animator/Player/::1695053251
+::res://dodge_assets/art/Assets/COPY SPRIGHT/::1695053251
+::res://dodge_assets/art/Assets/COPY SPRIGHT/2D Character - Astronaut/::1695053251
+::res://dodge_assets/art/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/::1695053251
+bomb_carry_down.anim::::-1::1695053251::0::1::::<><>::
+bomb_carry_side.anim::::-1::1695053251::0::1::::<><>::
+bomb_carry_up.anim::::-1::1695053251::0::1::::<><>::
+bomb_hold_down.anim::::-1::1695053251::0::1::::<><>::
+bomb_hold_side.anim::::-1::1695053251::0::1::::<><>::
+bomb_hold_up.anim::::-1::1695053251::0::1::::<><>::
+carry_down.anim::::-1::1695053251::0::1::::<><>::
+carry_side.anim::::-1::1695053251::0::1::::<><>::
+carry_side_cover.anim::::-1::1695053251::0::1::::<><>::
+carry_up.anim::::-1::1695053251::0::1::::<><>::
+crawl_down.anim::::-1::1695053251::0::1::::<><>::
+crawl_side.anim::::-1::1695053251::0::1::::<><>::
+crawl_up.anim::::-1::1695053251::0::1::::<><>::
+duck_down.anim::::-1::1695053251::0::1::::<><>::
+duck_side.anim::::-1::1695053251::0::1::::<><>::
+duck_up.anim::::-1::1695053251::0::1::::<><>::
+hammer_down.anim::::-1::1695053251::0::1::::<><>::
+hammer_down_cover.anim::::-1::1695053251::0::1::::<><>::
+hammer_side.anim::::-1::1695053251::0::1::::<><>::
+hammer_side_cover.anim::::-1::1695053251::0::1::::<><>::
+hammer_up.anim::::-1::1695053251::0::1::::<><>::
+hit1_down.anim::::-1::1695053251::0::1::::<><>::
+hit1_side.anim::::-1::1695053251::0::1::::<><>::
+hit1_up.anim::::-1::1695053251::0::1::::<><>::
+hit2_down.anim::::-1::1695053251::0::1::::<><>::
+hit2_side.anim::::-1::1695053251::0::1::::<><>::
+hit2_up.anim::::-1::1695053251::0::1::::<><>::
+hold_down.anim::::-1::1695053251::0::1::::<><>::
+hold_side.anim::::-1::1695053251::0::1::::<><>::
+hold_side_cover.anim::::-1::1695053251::0::1::::<><>::
+hold_up.anim::::-1::1695053251::0::1::::<><>::
+idle_down.anim::::-1::1695053251::0::1::::<><>::
+idle_side.anim::::-1::1695053251::0::1::::<><>::
+idle_up.anim::::-1::1695053251::0::1::::<><>::
+item_bomb_ground.anim::::-1::1695053251::0::1::::<><>::
+jump_down.anim::::-1::1695053251::0::1::::<><>::
+jump_side.anim::::-1::1695053251::0::1::::<><>::
+jump_up.anim::::-1::1695053251::0::1::::<><>::
+muzzleflash_gun.anim::::-1::1695053251::0::1::::<><>::
+muzzleflash_rifle.anim::::-1::1695053251::0::1::::<><>::
+run_down.anim::::-1::1695053251::0::1::::<><>::
+run_side.anim::::-1::1695053251::0::1::::<><>::
+run_up.anim::::-1::1695053251::0::1::::<><>::
+slide_down.anim::::-1::1695053251::0::1::::<><>::
+slide_side.anim::::-1::1695053251::0::1::::<><>::
+slide_up.anim::::-1::1695053251::0::1::::<><>::
+sword_down.anim::::-1::1695053251::0::1::::<><>::
+sword_down_cover.anim::::-1::1695053251::0::1::::<><>::
+sword_side.anim::::-1::1695053251::0::1::::<><>::
+sword_side_cover.anim::::-1::1695053251::0::1::::<><>::
+sword_up.anim::::-1::1695053251::0::1::::<><>::
+sycthe_down.anim::::-1::1695053251::0::1::::<><>::
+sycthe_down_cover.anim::::-1::1695053251::0::1::::<><>::
+sycthe_side.anim::::-1::1695053251::0::1::::<><>::
+sycthe_side_cover.anim::::-1::1695053251::0::1::::<><>::
+sycthe_up.anim::::-1::1695053251::0::1::::<><>::
+throw_down.anim::::-1::1695053251::0::1::::<><>::
+throw_side.anim::::-1::1695053251::0::1::::<><>::
+throw_up.anim::::-1::1695053251::0::1::::<><>::
+vanish.anim::::-1::1695053251::0::1::::<><>::
+walk_down.anim::::-1::1695053251::0::1::::<><>::
+walk_side.anim::::-1::1695053251::0::1::::<><>::
+walk_up.anim::::-1::1695053251::0::1::::<><>::
+weapon_bow_down.anim::::-1::1695053251::0::1::::<><>::
+weapon_bow_side.anim::::-1::1695053251::0::1::::<><>::
+weapon_bow_up.anim::::-1::1695053251::0::1::::<><>::
+weapon_hammer_down.anim::::-1::1695053251::0::1::::<><>::
+weapon_hammer_side.anim::::-1::1695053251::0::1::::<><>::
+weapon_hammer_up.anim::::-1::1695053251::0::1::::<><>::
+weapon_sword_down.anim::::-1::1695053251::0::1::::<><>::
+weapon_sword_side.anim::::-1::1695053251::0::1::::<><>::
+weapon_sword_up.anim::::-1::1695053251::0::1::::<><>::
+weapon_sycthe_down.anim::::-1::1695053251::0::1::::<><>::
+weapon_sycthe_side.anim::::-1::1695053251::0::1::::<><>::
+weapon_sycthe_up.anim::::-1::1695053251::0::1::::<><>::
+wood_barrier.anim::::-1::1695053251::0::1::::<><>::
+::res://dodge_assets/art/Assets/COPY SPRIGHT/2D Character - Astronaut/Demo/::1695053251
+::res://dodge_assets/art/Assets/COPY SPRIGHT/2D Character - Astronaut/Prefabs/::1695053251
+::res://dodge_assets/art/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/::1695053251
+character_bow.png::CompressedTexture2D::3584715697861740730::1695053251::1695053257::1::::<><>::
+character_carry.png::CompressedTexture2D::2091487509983135062::1695053251::1695053259::1::::<><>::
+character_crawl.png::CompressedTexture2D::7337299558191799060::1695053251::1695053258::1::::<><>::
+character_duck.png::CompressedTexture2D::2240870689011812463::1695053251::1695053258::1::::<><>::
+character_gun.png::CompressedTexture2D::4939547953744005639::1695053251::1695053256::1::::<><>::
+character_hammer.png::CompressedTexture2D::2137197773687774172::1695053251::1695053259::1::::<><>::
+character_hit1.png::CompressedTexture2D::5249582623996739742::1695053251::1695053257::1::::<><>::
+character_hit2.png::CompressedTexture2D::1703416953240219794::1695053251::1695053257::1::::<><>::
+character_hold.png::CompressedTexture2D::5368624239305402225::1695053251::1695053257::1::::<><>::
+character_idle.png::CompressedTexture2D::6712043156853487631::1695053251::1695053257::1::::<><>::
+character_jump.png::CompressedTexture2D::6525989766381463865::1695053251::1695053257::1::::<><>::
+character_rifle.png::CompressedTexture2D::5690578519636252632::1695053251::1695053255::1::::<><>::
+character_run.png::CompressedTexture2D::5766579922450402866::1695053251::1695053255::1::::<><>::
+character_slide.png::CompressedTexture2D::305962624630378359::1695053251::1695053255::1::::<><>::
+character_sword.png::CompressedTexture2D::1655675549896771774::1695053251::1695053256::1::::<><>::
+character_sycthe.png::CompressedTexture2D::8212631197181752768::1695053251::1695053256::1::::<><>::
+character_throw.png::CompressedTexture2D::2522651326395636460::1695053251::1695053255::1::::<><>::
+character_vanish.png::CompressedTexture2D::6631138104713744045::1695053251::1695053253::1::::<><>::
+character_walk.png::CompressedTexture2D::1053423908565892543::1695053251::1695053254::1::::<><>::
+weapon_bow.png::CompressedTexture2D::8579965697571667612::1695053251::1695053254::1::::<><>::
+weapon_gun.png::CompressedTexture2D::8769222868086057867::1695053251::1695053252::1::::<><>::
+weapon_hammer.png::CompressedTexture2D::8306176192711094356::1695053251::1695053256::1::::<><>::
+weapon_rifle.png::CompressedTexture2D::7945587644501431810::1695053251::1695053252::1::::<><>::
+weapon_sword.png::CompressedTexture2D::3265235361582009724::1695053251::1695053254::1::::<><>::
+weapon_sycthe.png::CompressedTexture2D::8558191914017922079::1695053251::1695053255::1::::<><>::
+world_arrow_basic.png::CompressedTexture2D::5671250416824950734::1695053251::1695053252::1::::<><>::
+world_bomb_carry.png::CompressedTexture2D::2055857123907744443::1695053251::1695053259::1::::<><>::
+world_bomb_explosion.png::CompressedTexture2D::249637984850089464::1695053251::1695053252::1::::<><>::
+world_bomb_ground.png::CompressedTexture2D::4096982919831739991::1695053251::1695053252::1::::<><>::
+world_bomb_hold.png::CompressedTexture2D::3804678895686551526::1695053251::1695053262::1::::<><>::
+world_bullets.png::CompressedTexture2D::6311515256133321411::1695053251::1695053258::1::::<><>::
+world_desert.png::CompressedTexture2D::958432142738895972::1695053251::1695053258::1::::<><>::
+world_muzzleflash.png::CompressedTexture2D::52042668199107196::1695053251::1695053257::1::::<><>::
+world_player_shadow.png::CompressedTexture2D::7635393583026630510::1695053251::1695053257::1::::<><>::
+world_wood_barrier.png::CompressedTexture2D::2410649261014491808::1695053251::1695053258::1::::<><>::
+::res://dodge_assets/art/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/::1695053251
+::res://dodge_assets/art/Assets/M Studio/::1695053250
+::res://dodge_assets/art/Assets/M Studio/Animations/::1695053250
+::res://dodge_assets/art/Assets/M Studio/Animations/Basic Empty Clips/::1695053250
+BlankAnimation.anim::::-1::1695053250::0::1::::<><>::
+IdleDown.anim::::-1::1695053250::0::1::::<><>::
+IdleLeft.anim::::-1::1695053250::0::1::::<><>::
+IdleRight.anim::::-1::1695053250::0::1::::<><>::
+IdleUp.anim::::-1::1695053250::0::1::::<><>::
+RunDown.anim::::-1::1695053250::0::1::::<><>::
+RunLeft.anim::::-1::1695053250::0::1::::<><>::
+RunRight.anim::::-1::1695053250::0::1::::<><>::
+RunUp.anim::::-1::1695053250::0::1::::<><>::
+ToolDown.anim::::-1::1695053250::0::1::::<><>::
+ToolLeft.anim::::-1::1695053250::0::1::::<><>::
+ToolRight.anim::::-1::1695053250::0::1::::<><>::
+ToolUp.anim::::-1::1695053250::0::1::::<><>::
+WalkDown.anim::::-1::1695053250::0::1::::<><>::
+WalkLeft.anim::::-1::1695053250::0::1::::<><>::
+WalkRight.anim::::-1::1695053250::0::1::::<><>::
+WalkUp.anim::::-1::1695053250::0::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Animations/Item/::1695053250
+::res://dodge_assets/art/Assets/M Studio/Animations/Item/Fire/::1695053250
+Fire01.anim::::-1::1695053250::0::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Animations/NPC/::1695053250
+::res://dodge_assets/art/Assets/M Studio/Animations/NPC/Boy/::1695053250
+Boy_IdleDown.anim::::-1::1695053250::0::1::::<><>::
+Boy_IdleLeft.anim::::-1::1695053250::0::1::::<><>::
+Boy_IdleRight.anim::::-1::1695053250::0::1::::<><>::
+Boy_IdleUp.anim::::-1::1695053250::0::1::::<><>::
+Boy_WalkDown.anim::::-1::1695053250::0::1::::<><>::
+Boy_WalkLeft.anim::::-1::1695053250::0::1::::<><>::
+Boy_WalkRight.anim::::-1::1695053250::0::1::::<><>::
+Boy_WalkUp.anim::::-1::1695053250::0::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Animations/NPC/Gril01/::1695053250
+Girl01_IdleDown.anim::::-1::1695053250::0::1::::<><>::
+Girl01_IdleLeft.anim::::-1::1695053250::0::1::::<><>::
+Girl01_IdleRight.anim::::-1::1695053250::0::1::::<><>::
+Girl01_IdleUp.anim::::-1::1695053250::0::1::::<><>::
+Girl01_WalkDown.anim::::-1::1695053250::0::1::::<><>::
+Girl01_WalkLeft.anim::::-1::1695053250::0::1::::<><>::
+Girl01_WalkRight.anim::::-1::1695053250::0::1::::<><>::
+Girl01_WalkUp.anim::::-1::1695053250::0::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Animations/NPC/Gril02/::1695053250
+Girl02_IdleDown.anim::::-1::1695053250::0::1::::<><>::
+Girl02_IdleLeft.anim::::-1::1695053250::0::1::::<><>::
+Girl02_IdleRight.anim::::-1::1695053250::0::1::::<><>::
+Girl02_IdleUp.anim::::-1::1695053250::0::1::::<><>::
+Girl02_WalkDown.anim::::-1::1695053250::0::1::::<><>::
+Girl02_WalkLeft.anim::::-1::1695053250::0::1::::<><>::
+Girl02_WalkRight.anim::::-1::1695053250::0::1::::<><>::
+Girl02_WalkUp.anim::::-1::1695053250::0::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Animations/NPC/OldMan/::1695053250
+OldMan_IdleDown.anim::::-1::1695053250::0::1::::<><>::
+OldMan_IdleLeft.anim::::-1::1695053250::0::1::::<><>::
+OldMan_IdleRight.anim::::-1::1695053250::0::1::::<><>::
+OldMan_IdleUp.anim::::-1::1695053250::0::1::::<><>::
+OldMan_Stretch.anim::::-1::1695053250::0::1::::<><>::
+OldMan_Thinking.anim::::-1::1695053250::0::1::::<><>::
+OldMan_WalkDown.anim::::-1::1695053250::0::1::::<><>::
+OldMan_WalkLeft.anim::::-1::1695053250::0::1::::<><>::
+OldMan_WalkRIght.anim::::-1::1695053250::0::1::::<><>::
+OldMan_WalkUp.anim::::-1::1695053250::0::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Animations/Player/::1695053250
+::res://dodge_assets/art/Assets/M Studio/Animations/Player/Arm/::1695053250
+ArmHoldIdleDown.anim::::-1::1695053250::0::1::::<><>::
+ArmHoldIdleLeft.anim::::-1::1695053250::0::1::::<><>::
+ArmHoldIdleRight.anim::::-1::1695053250::0::1::::<><>::
+ArmHoldIdleUp.anim::::-1::1695053250::0::1::::<><>::
+ArmHoldRunDown.anim::::-1::1695053250::0::1::::<><>::
+ArmHoldRunLeft.anim::::-1::1695053250::0::1::::<><>::
+ArmHoldRunRight.anim::::-1::1695053250::0::1::::<><>::
+ArmHoldRunUp.anim::::-1::1695053250::0::1::::<><>::
+ArmHoldWalkDown.anim::::-1::1695053250::0::1::::<><>::
+ArmHoldWalkLeft.anim::::-1::1695053250::0::1::::<><>::
+ArmHoldWalkRight.anim::::-1::1695053250::0::1::::<><>::
+ArmHoldWalkUp.anim::::-1::1695053250::0::1::::<><>::
+ArmIdleDown.anim::::-1::1695053250::0::1::::<><>::
+ArmIdleLeft.anim::::-1::1695053250::0::1::::<><>::
+ArmIdleRight.anim::::-1::1695053250::0::1::::<><>::
+ArmIdleUp.anim::::-1::1695053250::0::1::::<><>::
+ArmPullDown.anim::::-1::1695053250::0::1::::<><>::
+ArmPullLeft.anim::::-1::1695053250::0::1::::<><>::
+ArmPullRight.anim::::-1::1695053250::0::1::::<><>::
+ArmPullUp.anim::::-1::1695053250::0::1::::<><>::
+ArmReapDown.anim::::-1::1695053250::0::1::::<><>::
+ArmReapLeft.anim::::-1::1695053250::0::1::::<><>::
+ArmReapRight.anim::::-1::1695053250::0::1::::<><>::
+ArmReapUp.anim::::-1::1695053250::0::1::::<><>::
+ArmRunDown.anim::::-1::1695053250::0::1::::<><>::
+ArmRunLeft.anim::::-1::1695053250::0::1::::<><>::
+ArmRunRight.anim::::-1::1695053250::0::1::::<><>::
+ArmRunUp.anim::::-1::1695053250::0::1::::<><>::
+ArmToolDown.anim::::-1::1695053250::0::1::::<><>::
+ArmToolLeft.anim::::-1::1695053250::0::1::::<><>::
+ArmToolRight.anim::::-1::1695053250::0::1::::<><>::
+ArmToolUp.anim::::-1::1695053250::0::1::::<><>::
+ArmWalkDown.anim::::-1::1695053250::0::1::::<><>::
+ArmWalkLeft.anim::::-1::1695053250::0::1::::<><>::
+ArmWalkRight.anim::::-1::1695053250::0::1::::<><>::
+ArmWalkUp.anim::::-1::1695053250::0::1::::<><>::
+ArmWaterDown.anim::::-1::1695053250::0::1::::<><>::
+ArmWaterLeft.anim::::-1::1695053250::0::1::::<><>::
+ArmWaterRight.anim::::-1::1695053250::0::1::::<><>::
+ArmWaterUp.anim::::-1::1695053250::0::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Animations/Player/Body/::1695053250
+BodyIdleDown.anim::::-1::1695053250::0::1::::<><>::
+BodyIdleLeft.anim::::-1::1695053250::0::1::::<><>::
+BodyIdleRight.anim::::-1::1695053250::0::1::::<><>::
+BodyIdleUp.anim::::-1::1695053250::0::1::::<><>::
+BodyPullDown.anim::::-1::1695053250::0::1::::<><>::
+BodyPullLeft.anim::::-1::1695053250::0::1::::<><>::
+BodyPullRight.anim::::-1::1695053250::0::1::::<><>::
+BodyPullUp.anim::::-1::1695053250::0::1::::<><>::
+BodyReapDown.anim::::-1::1695053250::0::1::::<><>::
+BodyReapLeft.anim::::-1::1695053250::0::1::::<><>::
+BodyReapRight.anim::::-1::1695053250::0::1::::<><>::
+BodyReapUp.anim::::-1::1695053250::0::1::::<><>::
+BodyRunDown.anim::::-1::1695053250::0::1::::<><>::
+BodyRunLeft.anim::::-1::1695053250::0::1::::<><>::
+BodyRunRight.anim::::-1::1695053250::0::1::::<><>::
+BodyRunUp.anim::::-1::1695053250::0::1::::<><>::
+BodyToolDown.anim::::-1::1695053250::0::1::::<><>::
+BodyToolLeft.anim::::-1::1695053250::0::1::::<><>::
+BodyToolRight.anim::::-1::1695053250::0::1::::<><>::
+BodyToolUp.anim::::-1::1695053250::0::1::::<><>::
+BodyWalkDown.anim::::-1::1695053250::0::1::::<><>::
+BodyWalkLeft.anim::::-1::1695053250::0::1::::<><>::
+BodyWalkRight.anim::::-1::1695053250::0::1::::<><>::
+BodyWalkUp.anim::::-1::1695053250::0::1::::<><>::
+BodyWaterDown.anim::::-1::1695053250::0::1::::<><>::
+BodyWaterLeft.anim::::-1::1695053250::0::1::::<><>::
+BodyWaterRight.anim::::-1::1695053250::0::1::::<><>::
+BodyWaterUp.anim::::-1::1695053250::0::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Animations/Player/Hair/::1695053250
+HairIdleDown.anim::::-1::1695053250::0::1::::<><>::
+HairIdleLeft.anim::::-1::1695053250::0::1::::<><>::
+HairIdleRight.anim::::-1::1695053250::0::1::::<><>::
+HairIdleUp.anim::::-1::1695053250::0::1::::<><>::
+HairPullDown.anim::::-1::1695053250::0::1::::<><>::
+HairPullLeft.anim::::-1::1695053250::0::1::::<><>::
+HairPullRight.anim::::-1::1695053250::0::1::::<><>::
+HairPullUp.anim::::-1::1695053250::0::1::::<><>::
+HairReapDown.anim::::-1::1695053250::0::1::::<><>::
+HairReapLeft.anim::::-1::1695053250::0::1::::<><>::
+HairReapRight.anim::::-1::1695053250::0::1::::<><>::
+HairReapUp.anim::::-1::1695053250::0::1::::<><>::
+HairRunDown.anim::::-1::1695053250::0::1::::<><>::
+HairRunLeft.anim::::-1::1695053250::0::1::::<><>::
+HairRunRight.anim::::-1::1695053250::0::1::::<><>::
+HairRunUp.anim::::-1::1695053250::0::1::::<><>::
+HairToolDown.anim::::-1::1695053250::0::1::::<><>::
+HairToolLeft.anim::::-1::1695053250::0::1::::<><>::
+HairToolRight.anim::::-1::1695053250::0::1::::<><>::
+HairToolUp.anim::::-1::1695053250::0::1::::<><>::
+HairWalkDown.anim::::-1::1695053250::0::1::::<><>::
+HairWalkLeft.anim::::-1::1695053250::0::1::::<><>::
+HairWalkRight.anim::::-1::1695053250::0::1::::<><>::
+HairWalkUp.anim::::-1::1695053250::0::1::::<><>::
+HairWaterDown.anim::::-1::1695053250::0::1::::<><>::
+HairWaterLeft.anim::::-1::1695053250::0::1::::<><>::
+HairWaterRight.anim::::-1::1695053250::0::1::::<><>::
+HairWaterUp.anim::::-1::1695053250::0::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Animations/SceneryTrees/::1695053250
+tree_green.anim::::-1::1695053250::0::1::::<><>::
+tree_pink.anim::::-1::1695053250::0::1::::<><>::
+tree_yellow.anim::::-1::1695053250::0::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Animations/Tool/::1695053250
+NotUseTool.anim::::-1::1695053250::0::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Animations/Tool/Axe/::1695053250
+AxeToolDown.anim::::-1::1695053250::0::1::::<><>::
+AxeToolLeft.anim::::-1::1695053250::0::1::::<><>::
+AxeToolRight.anim::::-1::1695053250::0::1::::<><>::
+AxeToolUp.anim::::-1::1695053250::0::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Animations/Tool/Hoe/::1695053250
+HoeToolDown.anim::::-1::1695053250::0::1::::<><>::
+HoeToolLeft.anim::::-1::1695053250::0::1::::<><>::
+HoeToolRight.anim::::-1::1695053250::0::1::::<><>::
+HoeToolUp.anim::::-1::1695053250::0::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Animations/Tool/Pickaxe/::1695053250
+PickaxeToolDown.anim::::-1::1695053250::0::1::::<><>::
+PickaxeToolLeft.anim::::-1::1695053250::0::1::::<><>::
+PickaxeToolRight.anim::::-1::1695053250::0::1::::<><>::
+PickaxeToolUp.anim::::-1::1695053250::0::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Animations/Tool/ReapTool/::1695053250
+ReapToolDown.anim::::-1::1695053250::0::1::::<><>::
+ReapToolLeft.anim::::-1::1695053250::0::1::::<><>::
+ReapToolRight.anim::::-1::1695053250::0::1::::<><>::
+ReapToolUp.anim::::-1::1695053250::0::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Animations/Tool/Water/::1695053250
+WaterToolDown.anim::::-1::1695053250::0::1::::<><>::
+WaterToolLeft.anim::::-1::1695053250::0::1::::<><>::
+WaterToolRight.anim::::-1::1695053250::0::1::::<><>::
+WaterToolUp.anim::::-1::1695053250::0::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Animations/Tree/::1695053250
+FallingLeft.anim::::-1::1695053250::0::1::::<><>::
+FallingRight.anim::::-1::1695053250::0::1::::<><>::
+RotateLeft.anim::::-1::1695053250::0::1::::<><>::
+RotateRight.anim::::-1::1695053250::0::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Animations/UI/::1695053250
+loadimage.anim::::-1::1695053250::0::1::::<><>::
+slothightlight.anim::::-1::1695053250::0::1::::<><>::
+ui_spacebar.anim::::-1::1695053250::0::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/::1695053250
+::res://dodge_assets/art/Assets/M Studio/Art/Buildings/::1695053249
+::res://dodge_assets/art/Assets/M Studio/Art/Buildings/Hotel/::1695053249
+Hotel@20.png::CompressedTexture2D::3014443391604579798::1695053249::1695053257::1::::<><>::
+Hotel_Door.png::CompressedTexture2D::4354040085928302679::1695053249::1695053257::1::::<><>::
+Hotel_Flower@20.png::CompressedTexture2D::4916671848581189294::1695053249::1695053257::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Buildings/House01/::1695053249
+House_01@20.png::CompressedTexture2D::8925556796855871914::1695053249::1695053257::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Buildings/House02/::1695053249
+House_02@20.png::CompressedTexture2D::508942277922797535::1695053249::1695053257::1::::<><>::
+House_02_Door.png::CompressedTexture2D::8900086573950824341::1695053249::1695053257::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Buildings/House03/::1695053249
+House03@20.png::CompressedTexture2D::3314220048279654880::1695053249::1695053257::1::::<><>::
+House03_Door.png::CompressedTexture2D::4257411869003847657::1695053249::1695053257::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Buildings/HouseTile/::1695053249
+HouseTile@20.png::CompressedTexture2D::1920637246986791718::1695053249::1695053257::1::::<><>::
+HouseTile_Door01.png::CompressedTexture2D::1944505110039877400::1695053249::1695053257::1::::<><>::
+HouseTile_Door02.png::CompressedTexture2D::443037963941970892::1695053249::1695053257::1::::<><>::
+HouseTile_Door03.png::CompressedTexture2D::4332546329101904348::1695053249::1695053257::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Buildings/Stall/::1695053249
+Box_Grape.png::CompressedTexture2D::7720696077925823991::1695053249::1695053257::1::::<><>::
+Box_GrapeSeed.png::CompressedTexture2D::654081340917170819::1695053249::1695053257::1::::<><>::
+Box_PinkRadishSeed.png::CompressedTexture2D::4233185487286669326::1695053249::1695053257::1::::<><>::
+Box_Potato.png::CompressedTexture2D::7698569217940035323::1695053249::1695053257::1::::<><>::
+Box_PotatoSeed.png::CompressedTexture2D::401650890696058784::1695053249::1695053257::1::::<><>::
+Box_Turnip.png::CompressedTexture2D::7999665460750289996::1695053249::1695053257::1::::<><>::
+Box_Vegetables.png::CompressedTexture2D::9000384108125177626::1695053249::1695053257::1::::<><>::
+Sign_Mira.png::CompressedTexture2D::3348828105000047219::1695053249::1695053257::1::::<><>::
+Sign_Yoko.png::CompressedTexture2D::8026311180725493561::1695053249::1695053257::1::::<><>::
+Stall.png::CompressedTexture2D::171827014531679817::1695053249::1695053257::1::::<><>::
+Stall_shadow.png::CompressedTexture2D::8069814700703497133::1695053249::1695053257::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/::1695053250
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/BlacksWing/::1695053250
+BlacksWing.png::CompressedTexture2D::3340066516241532049::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Boy01/::1695053250
+Boy_001.png::CompressedTexture2D::8167076895396740884::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Girl01/::1695053250
+Girl_001.png::CompressedTexture2D::2789901809604375365::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Girl02/::1695053250
+Girl_002.png::CompressedTexture2D::4868006055591151315::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Girl03/::1695053250
+Girl_003.png::CompressedTexture2D::239539985169002434::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Girl04/::1695053250
+Girl_004.png::CompressedTexture2D::6987653591623717840::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Girl05/::1695053250
+Girl_005.png::CompressedTexture2D::2473097792300810831::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Girl06/::1695053250
+Girl_006.png::CompressedTexture2D::5181374880632825296::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Girl07/::1695053250
+Girl_007.png::CompressedTexture2D::2194442602300733175::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/M/::1695053250
+M.png::CompressedTexture2D::7532306861073766911::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Old Man/::1695053250
+Old Man.png::CompressedTexture2D::6057737897686925228::1695053250::1695053252::1::::<><>::
+Old Man_Stretch.png::CompressedTexture2D::8277711733325675125::1695053250::1695053252::1::::<><>::
+Old Man_Thinking.png::CompressedTexture2D::3498022308574949695::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Player/::1695053250
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Player/Arm/::1695053250
+ArmHoldRunDown.png::CompressedTexture2D::3938919922314525027::1695053250::1695053252::1::::<><>::
+ArmHoldRunLeft.png::CompressedTexture2D::8026756815535071803::1695053250::1695053252::1::::<><>::
+ArmHoldRunRight.png::CompressedTexture2D::3940668101461362084::1695053250::1695053252::1::::<><>::
+ArmHoldRunUp.png::CompressedTexture2D::6557833420739101693::1695053250::1695053252::1::::<><>::
+ArmHoldWalkDown.png::CompressedTexture2D::5439399504805250066::1695053250::1695053252::1::::<><>::
+ArmHoldWalkLeft.png::CompressedTexture2D::8817461489636881300::1695053250::1695053252::1::::<><>::
+ArmHoldWalkRight.png::CompressedTexture2D::7963795395427152434::1695053250::1695053252::1::::<><>::
+ArmHoldWalkUp.png::CompressedTexture2D::5524031825505141292::1695053250::1695053252::1::::<><>::
+ArmPullDown.png::CompressedTexture2D::7351403735138442579::1695053250::1695053252::1::::<><>::
+ArmPullLeft.png::CompressedTexture2D::3858841290651627781::1695053250::1695053252::1::::<><>::
+ArmPullRight.png::CompressedTexture2D::1493048116143551253::1695053250::1695053252::1::::<><>::
+ArmPullUp.png::CompressedTexture2D::4068292764568279779::1695053250::1695053252::1::::<><>::
+ArmReapDown.png::CompressedTexture2D::5872546648052592029::1695053250::1695053252::1::::<><>::
+ArmReapLeft.png::CompressedTexture2D::3200865384927517108::1695053250::1695053252::1::::<><>::
+ArmReapRight.png::CompressedTexture2D::6520136706682435536::1695053250::1695053252::1::::<><>::
+ArmReapUp.png::CompressedTexture2D::686558315152436821::1695053250::1695053252::1::::<><>::
+ArmRunDown.png::CompressedTexture2D::455703395653504594::1695053250::1695053252::1::::<><>::
+ArmRunLeft.png::CompressedTexture2D::4682683000138069279::1695053250::1695053252::1::::<><>::
+ArmRunRight.png::CompressedTexture2D::8065426649552000472::1695053250::1695053252::1::::<><>::
+ArmRunUp.png::CompressedTexture2D::478215440174956042::1695053250::1695053252::1::::<><>::
+ArmToolDown.png::CompressedTexture2D::8591423872216899883::1695053250::1695053252::1::::<><>::
+ArmToolLeft.png::CompressedTexture2D::8791215950764448652::1695053250::1695053252::1::::<><>::
+ArmToolRight.png::CompressedTexture2D::3052332807719917552::1695053250::1695053252::1::::<><>::
+ArmToolUp.png::CompressedTexture2D::3570335678753508453::1695053250::1695053252::1::::<><>::
+ArmWalkDown.png::CompressedTexture2D::8580378886446007483::1695053250::1695053252::1::::<><>::
+ArmWalkLeft.png::CompressedTexture2D::1480460988818589790::1695053250::1695053252::1::::<><>::
+ArmWalkRight.png::CompressedTexture2D::5123328143856362465::1695053250::1695053252::1::::<><>::
+ArmWalkUp.png::CompressedTexture2D::4103042077794613743::1695053250::1695053252::1::::<><>::
+ArmWaterDown.png::CompressedTexture2D::6231006624401687561::1695053250::1695053252::1::::<><>::
+ArmWaterLeft.png::CompressedTexture2D::4062674983468547799::1695053250::1695053252::1::::<><>::
+ArmWaterRight.png::CompressedTexture2D::6791888465937683127::1695053250::1695053252::1::::<><>::
+ArmWaterUp.png::CompressedTexture2D::4068476114950539833::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Player/Body/::1695053250
+BodyPullDown.png::CompressedTexture2D::5637768945690882454::1695053250::1695053252::1::::<><>::
+BodyPullLeft.png::CompressedTexture2D::3923445684243529852::1695053250::1695053252::1::::<><>::
+BodyPullRight.png::CompressedTexture2D::5214354456912095443::1695053250::1695053252::1::::<><>::
+BodyPullUp.png::CompressedTexture2D::1199417249761148069::1695053250::1695053252::1::::<><>::
+BodyReapDown.png::CompressedTexture2D::1518940597692265513::1695053250::1695053252::1::::<><>::
+BodyReapLeft.png::CompressedTexture2D::8603386676824930691::1695053250::1695053252::1::::<><>::
+BodyReapRight.png::CompressedTexture2D::7009078884074069493::1695053250::1695053252::1::::<><>::
+BodyReapUp.png::CompressedTexture2D::2801649817209073714::1695053250::1695053252::1::::<><>::
+BodyRunDown.png::CompressedTexture2D::2134744927552127577::1695053250::1695053252::1::::<><>::
+BodyRunLeft.png::CompressedTexture2D::2738703419981825808::1695053250::1695053252::1::::<><>::
+BodyRunRight.png::CompressedTexture2D::1225843841661596843::1695053250::1695053252::1::::<><>::
+BodyRunUp.png::CompressedTexture2D::585553542251158300::1695053250::1695053252::1::::<><>::
+BodyToolDown.png::CompressedTexture2D::5793902059085062194::1695053250::1695053252::1::::<><>::
+BodyToolLeft.png::CompressedTexture2D::4912112260765345791::1695053250::1695053258::1::::<><>::
+BodyToolRight.png::CompressedTexture2D::6498183704120804707::1695053250::1695053258::1::::<><>::
+BodyToolUp.png::CompressedTexture2D::1922385749323817012::1695053250::1695053258::1::::<><>::
+BodyWalkDown.png::CompressedTexture2D::3088673095289700667::1695053250::1695053258::1::::<><>::
+BodyWalkLeft.png::CompressedTexture2D::152211407311820224::1695053250::1695053258::1::::<><>::
+BodyWalkRight.png::CompressedTexture2D::335921028970108983::1695053250::1695053258::1::::<><>::
+BodyWalkUp.png::CompressedTexture2D::2077094719765224924::1695053250::1695053258::1::::<><>::
+BodyWaterDown.png::CompressedTexture2D::8145691676668799015::1695053250::1695053258::1::::<><>::
+BodyWaterLeft.png::CompressedTexture2D::8313549693919847808::1695053250::1695053258::1::::<><>::
+BodyWaterRight.png::CompressedTexture2D::2638019494091345029::1695053250::1695053258::1::::<><>::
+BodyWaterUp.png::CompressedTexture2D::5735600387435201454::1695053250::1695053258::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Player/Hair/::1695053250
+HairPullDown.png::CompressedTexture2D::5945321868739008337::1695053250::1695053258::1::::<><>::
+HairPullLeft.png::CompressedTexture2D::5880407252391290890::1695053250::1695053258::1::::<><>::
+HairPullRight.png::CompressedTexture2D::3199903873011544276::1695053250::1695053258::1::::<><>::
+HairPullUp.png::CompressedTexture2D::6351557455894473730::1695053250::1695053258::1::::<><>::
+HairReapDown.png::CompressedTexture2D::7402524666122046023::1695053250::1695053258::1::::<><>::
+HairReapLeft.png::CompressedTexture2D::5072414267426784477::1695053250::1695053258::1::::<><>::
+HairReapRight.png::CompressedTexture2D::8119443310053998741::1695053250::1695053258::1::::<><>::
+HairReapUp.png::CompressedTexture2D::4652266753902944704::1695053250::1695053258::1::::<><>::
+HairRunDown.png::CompressedTexture2D::3116683875297650753::1695053250::1695053258::1::::<><>::
+HairRunLeft.png::CompressedTexture2D::2871976981471354246::1695053250::1695053258::1::::<><>::
+HairRunRight.png::CompressedTexture2D::3716948503896010434::1695053250::1695053258::1::::<><>::
+HairRunUp.png::CompressedTexture2D::7001818186690306918::1695053250::1695053258::1::::<><>::
+HairToolDown.png::CompressedTexture2D::5369534301784954312::1695053250::1695053258::1::::<><>::
+HairToolLeft.png::CompressedTexture2D::9124474804293028851::1695053250::1695053258::1::::<><>::
+HairToolRight.png::CompressedTexture2D::3250005709269191440::1695053250::1695053258::1::::<><>::
+HairToolUp.png::CompressedTexture2D::6637493283678498802::1695053250::1695053258::1::::<><>::
+HairWalkDown.png::CompressedTexture2D::1609140326232761992::1695053250::1695053258::1::::<><>::
+HairWalkLeft.png::CompressedTexture2D::4539726428706237508::1695053250::1695053258::1::::<><>::
+HairWalkRight.png::CompressedTexture2D::6219335976012748981::1695053250::1695053258::1::::<><>::
+HairWalkUp.png::CompressedTexture2D::3597527432234557807::1695053250::1695053258::1::::<><>::
+HairWaterDown.png::CompressedTexture2D::2908038905333574796::1695053250::1695053258::1::::<><>::
+HairWaterLeft.png::CompressedTexture2D::737146298266734004::1695053250::1695053258::1::::<><>::
+HairWaterRight.png::CompressedTexture2D::5761370946217999134::1695053250::1695053258::1::::<><>::
+HairWaterUp.png::CompressedTexture2D::2227806161181168654::1695053250::1695053258::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Player/Tools/::1695053250
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Player/Tools/Axe/::1695053250
+AxeToolDown.png::CompressedTexture2D::6434138857574248622::1695053250::1695053258::1::::<><>::
+AxeToolLeft.png::CompressedTexture2D::5528860910106511947::1695053250::1695053258::1::::<><>::
+AxeToolRight.png::CompressedTexture2D::3430484741810166969::1695053250::1695053258::1::::<><>::
+AxeToolUp.png::CompressedTexture2D::1245812308884936876::1695053250::1695053258::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Player/Tools/Hoe/::1695053250
+HoeToolDown.png::CompressedTexture2D::1511446665159212334::1695053250::1695053258::1::::<><>::
+HoeToolLeft.png::CompressedTexture2D::2768225221876326764::1695053250::1695053258::1::::<><>::
+HoeToolRight.png::CompressedTexture2D::2429043741698906739::1695053250::1695053258::1::::<><>::
+HoeToolUp.png::CompressedTexture2D::1657679505366051231::1695053250::1695053258::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Player/Tools/Pickaxe/::1695053250
+PickaxeToolDown.png::CompressedTexture2D::7344610493125092942::1695053250::1695053258::1::::<><>::
+PickaxeToolLeft.png::CompressedTexture2D::8848650878332893843::1695053250::1695053258::1::::<><>::
+PickaxeToolRight.png::CompressedTexture2D::4336783978178740665::1695053250::1695053258::1::::<><>::
+PickaxeToolUp.png::CompressedTexture2D::405875164626002903::1695053250::1695053258::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Player/Tools/Reap/::1695053250
+ReapToolDown.png::CompressedTexture2D::4735146458046992966::1695053250::1695053258::1::::<><>::
+ReapToolLeft.png::CompressedTexture2D::7445353712265170861::1695053250::1695053258::1::::<><>::
+ReapToolRight.png::CompressedTexture2D::5465312706750750456::1695053250::1695053258::1::::<><>::
+ReapToolUp.png::CompressedTexture2D::5014656511205651496::1695053250::1695053258::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Player/Tools/Water/::1695053250
+WaterToolDown.png::CompressedTexture2D::5370026683840688769::1695053250::1695053258::1::::<><>::
+WaterToolLeft.png::CompressedTexture2D::4931011897047864928::1695053250::1695053258::1::::<><>::
+WaterToolRight.png::CompressedTexture2D::4359473112252956895::1695053250::1695053258::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/Shadow/::1695053250
+Character_Shadow.png::CompressedTexture2D::2251246026106269829::1695053250::1695053258::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Characters/UI Animation/::1695053250
+Loading_RunRight.png::CompressedTexture2D::3456864230842630355::1695053250::1695053258::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Faces/::1695053250
+Boy01-1.png::CompressedTexture2D::4383439407482379694::1695053250::1695053258::1::::<><>::
+Boy01-2.png::CompressedTexture2D::589493748493764409::1695053250::1695053258::1::::<><>::
+Boy01-3.png::CompressedTexture2D::7384220958973177774::1695053250::1695053258::1::::<><>::
+Boy01-4.png::CompressedTexture2D::6377989068124933492::1695053250::1695053258::1::::<><>::
+Boy01-5.png::CompressedTexture2D::6737765646132718381::1695053250::1695053258::1::::<><>::
+Boy02-1.png::CompressedTexture2D::5804953299438954370::1695053250::1695053258::1::::<><>::
+Boy02-2.png::CompressedTexture2D::4126177807827788187::1695053250::1695053258::1::::<><>::
+Boy02-3.png::CompressedTexture2D::8797524362850970878::1695053250::1695053258::1::::<><>::
+Girl01-1.png::CompressedTexture2D::6299899230811161236::1695053250::1695053258::1::::<><>::
+Girl01-2.png::CompressedTexture2D::3368347651574864445::1695053250::1695053258::1::::<><>::
+Girl01-3.png::CompressedTexture2D::3484350680128538236::1695053250::1695053258::1::::<><>::
+Girl01-4.png::CompressedTexture2D::4637897081140342599::1695053250::1695053258::1::::<><>::
+Girl01-5.png::CompressedTexture2D::1886096796024066090::1695053250::1695053258::1::::<><>::
+Girl02-1.png::CompressedTexture2D::4585299267250581944::1695053250::1695053258::1::::<><>::
+Girl02-2.png::CompressedTexture2D::1315003099293219184::1695053250::1695053258::1::::<><>::
+Man_00x.png::CompressedTexture2D::230473568610334496::1695053250::1695053258::1::::<><>::
+Man_001_default.png::CompressedTexture2D::4535566615438719497::1695053250::1695053258::1::::<><>::
+Man_001_happy.png::CompressedTexture2D::6827889350981187898::1695053250::1695053258::1::::<><>::
+Man_001_surprised.png::CompressedTexture2D::1309493050187777014::1695053250::1695053258::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Intro/::1695053250
+::res://dodge_assets/art/Assets/M Studio/Art/Intro/Background/::1695053250
+bg_01.png::CompressedTexture2D::8083401923654134342::1695053250::1695053258::1::::<><>::
+bg_02.png::CompressedTexture2D::4878083176622488635::1695053250::1695053258::1::::<><>::
+bg_03.png::CompressedTexture2D::7045541921810113329::1695053250::1695053258::1::::<><>::
+bg_04.png::CompressedTexture2D::5612389837214752803::1695053250::1695053258::1::::<><>::
+bg_05.png::CompressedTexture2D::3873048288265395443::1695053250::1695053258::1::::<><>::
+bg_06.png::CompressedTexture2D::528256479825607215::1695053250::1695053258::1::::<><>::
+bg_07.png::CompressedTexture2D::6616060680102784829::1695053250::1695053258::1::::<><>::
+bg_08.png::CompressedTexture2D::1213372965834889283::1695053250::1695053258::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Intro/Character/::1695053250
+character_01.png::CompressedTexture2D::595274938797222043::1695053250::1695053258::1::::<><>::
+character_02.png::CompressedTexture2D::148319819994219052::1695053250::1695053258::1::::<><>::
+character_03.png::CompressedTexture2D::6552893795708858776::1695053250::1695053258::1::::<><>::
+character_04.png::CompressedTexture2D::8221143112195657761::1695053250::1695053258::1::::<><>::
+character_05.png::CompressedTexture2D::5583458509008362859::1695053250::1695053258::1::::<><>::
+character_06-1.png::CompressedTexture2D::2970564279119111005::1695053250::1695053258::1::::<><>::
+character_06.png::CompressedTexture2D::373055950596754554::1695053250::1695053258::1::::<><>::
+character_07.png::CompressedTexture2D::2718853928662662425::1695053250::1695053258::1::::<><>::
+character_08.png::CompressedTexture2D::1634348226186998985::1695053250::1695053258::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Intro/Sea/::1695053250
+lighting_01.png::CompressedTexture2D::5325004942633727536::1695053250::1695053258::1::::<><>::
+lighting_02.png::CompressedTexture2D::3208281667726235075::1695053250::1695053258::1::::<><>::
+sea_01.png::CompressedTexture2D::5468518963891555869::1695053250::1695053258::1::::<><>::
+sea_02.png::CompressedTexture2D::8981419168652313319::1695053250::1695053258::1::::<><>::
+sea_03.png::CompressedTexture2D::5531579389688712345::1695053250::1695053258::1::::<><>::
+sea_04.png::CompressedTexture2D::6335730793922189780::1695053250::1695053258::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Intro/Sign/::1695053250
+sign_01.png::CompressedTexture2D::8576003413325764515::1695053250::1695053258::1::::<><>::
+sign_02.png::CompressedTexture2D::2982568649487938377::1695053250::1695053258::1::::<><>::
+sign_03.png::CompressedTexture2D::2376541974017505111::1695053250::1695053258::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Items/::1695053250
+::res://dodge_assets/art/Assets/M Studio/Art/Items/Bushes/::1695053250
+bushes_01.png::CompressedTexture2D::7066889945663190995::1695053250::1695053258::1::::<><>::
+bushes_02.png::CompressedTexture2D::8222699374778599578::1695053250::1695053258::1::::<><>::
+bushes_03.png::CompressedTexture2D::4468542403674964055::1695053250::1695053258::1::::<><>::
+bushes_04.png::CompressedTexture2D::2708433243390125147::1695053250::1695053258::1::::<><>::
+bushes_05.png::CompressedTexture2D::8052848391148114558::1695053250::1695053258::1::::<><>::
+bushes_06.png::CompressedTexture2D::889556163056250517::1695053250::1695053258::1::::<><>::
+bushes_07.png::CompressedTexture2D::4501363044355673012::1695053250::1695053258::1::::<><>::
+bushes_08.png::CompressedTexture2D::7494075427960039684::1695053250::1695053258::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Items/Environments/::1695053250
+Barrel.png::CompressedTexture2D::3485646530345357499::1695053250::1695053258::1::::<><>::
+Box_covered.png::CompressedTexture2D::2125812777231855126::1695053250::1695053258::1::::<><>::
+Box_opened.png::CompressedTexture2D::5199463299939698498::1695053250::1695053258::1::::<><>::
+Cloud1.png::CompressedTexture2D::1824199238521165370::1695053250::1695053258::1::::<><>::
+Cloud2.png::CompressedTexture2D::3629182627371764191::1695053250::1695053258::1::::<><>::
+Cloud3.png::CompressedTexture2D::1603022005377222755::1695053250::1695053258::1::::<><>::
+Pool.png::CompressedTexture2D::331247018628665337::1695053250::1695053258::1::::<><>::
+Well_dark.png::CompressedTexture2D::6060943569589668861::1695053250::1695053252::1::::<><>::
+Well_light.png::CompressedTexture2D::5940501862891994607::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Items/Furnitrue01/::1695053250
+Fire01.png::CompressedTexture2D::7248369654231765242::1695053250::1695053252::1::::<><>::
+Furniture01.png::CompressedTexture2D::1474033620742706555::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Items/Furniture02/::1695053250
+Bench.png::CompressedTexture2D::3574667277337285391::1695053250::1695053252::1::::<><>::
+Fire02.png::CompressedTexture2D::5748964611115449630::1695053250::1695053252::1::::<><>::
+Fireplace.png::CompressedTexture2D::8288786742601467381::1695053250::1695053252::1::::<><>::
+Furniture02.png::CompressedTexture2D::293965191564361130::1695053250::1695053252::1::::<><>::
+Tables_Chairs.png::CompressedTexture2D::6792343391483663974::1695053250::1695053252::1::::<><>::
+Tableware.png::CompressedTexture2D::2976662689668194955::1695053250::1695053252::1::::<><>::
+Table_Sliced@20.png::CompressedTexture2D::6532691284423417851::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Items/Grass/::1695053250
+Grass01.png::CompressedTexture2D::3465695459809505910::1695053250::1695053252::1::::<><>::
+Grass02.png::CompressedTexture2D::4021287673643711553::1695053250::1695053252::1::::<><>::
+Grass03.png::CompressedTexture2D::8543569392172071308::1695053250::1695053252::1::::<><>::
+Grass_Harvest.png::CompressedTexture2D::8911205409672909860::1695053250::1695053252::1::::<><>::
+Grass_Particale.png::CompressedTexture2D::1199705844992648429::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Items/Icons/::1695053250
+icon_Basket.png::CompressedTexture2D::4610979994902472614::1695053250::1695053252::1::::<><>::
+icon_BroadleafSeed.png::CompressedTexture2D::1367209676015249877::1695053250::1695053252::1::::<><>::
+icon_BroadleafWood.png::CompressedTexture2D::3153900630868474715::1695053250::1695053252::1::::<><>::
+icon_Chair.png::CompressedTexture2D::6205612765864449855::1695053250::1695053252::1::::<><>::
+icon_Chop.png::CompressedTexture2D::592906356608033504::1695053250::1695053252::1::::<><>::
+icon_Game.png::CompressedTexture2D::2777667513230740152::1695053250::1695053252::1::::<><>::
+icon_Grape.png::CompressedTexture2D::7073349417841284503::1695053250::1695053252::1::::<><>::
+icon_GrapeSeed.png::CompressedTexture2D::5328802343171306533::1695053250::1695053252::1::::<><>::
+icon_Grass.png::CompressedTexture2D::6627876203387217440::1695053250::1695053252::1::::<><>::
+icon_Hoe.png::CompressedTexture2D::3216041510623700709::1695053250::1695053252::1::::<><>::
+icon_M.png::CompressedTexture2D::4137951319266549381::1695053250::1695053252::1::::<><>::
+icon_NeedieSeed.png::CompressedTexture2D::6477941945866021072::1695053250::1695053252::1::::<><>::
+icon_NeedieWood.png::CompressedTexture2D::7689697921228731772::1695053250::1695053252::1::::<><>::
+icon_Pickaxe.png::CompressedTexture2D::100389351468955257::1695053250::1695053252::1::::<><>::
+icon_PinkRadish.png::CompressedTexture2D::2322952775511813232::1695053250::1695053252::1::::<><>::
+icon_PinkRadishSeed.png::CompressedTexture2D::7591643235032406759::1695053250::1695053252::1::::<><>::
+icon_Potato.png::CompressedTexture2D::3319767937388142356::1695053250::1695053252::1::::<><>::
+icon_PotatoSeed.png::CompressedTexture2D::694822635802917540::1695053250::1695053252::1::::<><>::
+icon_pumpkin.png::CompressedTexture2D::3477449628120850334::1695053250::1695053252::1::::<><>::
+icon_Reap.png::CompressedTexture2D::1708827996956112031::1695053250::1695053252::1::::<><>::
+icon_Rock.png::CompressedTexture2D::1945961827327862993::1695053250::1695053252::1::::<><>::
+icon_Table.png::CompressedTexture2D::6896796362879098428::1695053250::1695053252::1::::<><>::
+icon_Turnip.png::CompressedTexture2D::4179230370900647802::1695053250::1695053252::1::::<><>::
+icon_TurnipSeed.png::CompressedTexture2D::5129963989772833365::1695053250::1695053252::1::::<><>::
+icon_WateringCan.png::CompressedTexture2D::6612538228959061684::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Items/New Plant/::1695053250
+blueberry.png::CompressedTexture2D::982520151490435340::1695053250::1695053252::1::::<><>::
+BlueberrySeed_hold.png::CompressedTexture2D::880041859717418168::1695053250::1695053252::1::::<><>::
+blueberry_growth.png::CompressedTexture2D::4831014719563113607::1695053250::1695053252::1::::<><>::
+eggplant.png::CompressedTexture2D::5739440465188491343::1695053250::1695053252::1::::<><>::
+EggplantSeed_hold.png::CompressedTexture2D::8702602254549517058::1695053250::1695053252::1::::<><>::
+eggplant_growth.png::CompressedTexture2D::5888079232769768548::1695053250::1695053252::1::::<><>::
+icon_BlueberrySeed.png::CompressedTexture2D::1019851096803595511::1695053250::1695053252::1::::<><>::
+icon_EggplantSeed.png::CompressedTexture2D::2511040619996422626::1695053250::1695053252::1::::<><>::
+icon_PumpkinSeed.png::CompressedTexture2D::5471305123086852927::1695053250::1695053252::1::::<><>::
+icon_RedpapperSeed.png::CompressedTexture2D::6922978920751210840::1695053250::1695053252::1::::<><>::
+icon_TomatoSeed.png::CompressedTexture2D::3050756215687232835::1695053250::1695053252::1::::<><>::
+icon_WatermelonSeed.png::CompressedTexture2D::6274787081735071209::1695053250::1695053252::1::::<><>::
+pumpkin.png::CompressedTexture2D::4545172561193718883::1695053250::1695053252::1::::<><>::
+PumpkinSeed_hold.png::CompressedTexture2D::5725752336082285762::1695053250::1695053252::1::::<><>::
+pumpkin_growth.png::CompressedTexture2D::3251214921993798770::1695053250::1695053252::1::::<><>::
+redpapper.png::CompressedTexture2D::2267543647631735884::1695053250::1695053252::1::::<><>::
+RedpapperSeed_hold.png::CompressedTexture2D::2657907146112263029::1695053250::1695053252::1::::<><>::
+redpapper_growth.png::CompressedTexture2D::2791287633786635452::1695053250::1695053252::1::::<><>::
+tomato.png::CompressedTexture2D::7885398510713507942::1695053250::1695053252::1::::<><>::
+TomatoSeed_hold.png::CompressedTexture2D::5299346354440705802::1695053250::1695053252::1::::<><>::
+tomato_growth.png::CompressedTexture2D::5305046382387137037::1695053250::1695053252::1::::<><>::
+watermelon.png::CompressedTexture2D::3841494216305177133::1695053250::1695053252::1::::<><>::
+WatermelonSeed_Hold.png::CompressedTexture2D::8422616676878495553::1695053250::1695053252::1::::<><>::
+watermelon_growth.png::CompressedTexture2D::3175800140176532112::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Items/Plants/::1695053250
+GrapeSeed_hold.png::CompressedTexture2D::5098416721632531474::1695053250::1695053252::1::::<><>::
+Grape_grow.png::CompressedTexture2D::2971645691327986788::1695053250::1695053252::1::::<><>::
+PinkRadishSeed_hold.png::CompressedTexture2D::8714590188325673150::1695053250::1695053252::1::::<><>::
+PinkRadish_grow.png::CompressedTexture2D::3442482511370172571::1695053250::1695053252::1::::<><>::
+PotatoSeed_hold.png::CompressedTexture2D::6654276992350262382::1695053250::1695053252::1::::<><>::
+Potato_grow.png::CompressedTexture2D::2833844029945799304::1695053250::1695053252::1::::<><>::
+Pumkip.png::CompressedTexture2D::6264277575288548187::1695053250::1695053252::1::::<><>::
+TurnipSeed_hold.png::CompressedTexture2D::4930882027852061218::1695053250::1695053252::1::::<><>::
+Turnip_grow.png::CompressedTexture2D::8663395860383890235::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Items/Rocks/::1695053250
+Rock01.png::CompressedTexture2D::7586314087268683047::1695053250::1695053252::1::::<><>::
+Rock02.png::CompressedTexture2D::8870619586028664207::1695053250::1695053252::1::::<><>::
+Rock_Harvest.png::CompressedTexture2D::2864122674063207628::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Items/Tree01/::1695053250
+Tree01_Bottom.png::CompressedTexture2D::1445459346914281167::1695053250::1695053252::1::::<><>::
+Tree01_Fruitage.png::CompressedTexture2D::7450240880240402609::1695053250::1695053252::1::::<><>::
+Tree01_Leaves.png::CompressedTexture2D::4715495312958228518::1695053250::1695053252::1::::<><>::
+Tree01_Stage01.png::CompressedTexture2D::6794903275334845181::1695053250::1695053252::1::::<><>::
+Tree01_Stage02.png::CompressedTexture2D::5806647691823832197::1695053250::1695053252::1::::<><>::
+Tree01_Stage03.png::CompressedTexture2D::6239184183567352636::1695053250::1695053252::1::::<><>::
+Tree01_Top.png::CompressedTexture2D::4919300750060547935::1695053250::1695053252::1::::<><>::
+Tree01_Trunk.png::CompressedTexture2D::2093238481048793044::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Items/Tree02/::1695053250
+Tree02_Bottom.png::CompressedTexture2D::3503884727096872957::1695053250::1695053252::1::::<><>::
+Tree02_Fruitage.png::CompressedTexture2D::3951803005931053365::1695053250::1695053252::1::::<><>::
+Tree02_Leaves.png::CompressedTexture2D::3741909731164862771::1695053250::1695053252::1::::<><>::
+Tree02_Stage01.png::CompressedTexture2D::7316150865784017444::1695053250::1695053252::1::::<><>::
+Tree02_Stage02.png::CompressedTexture2D::8942475011329220404::1695053250::1695053252::1::::<><>::
+Tree02_Stage03.png::CompressedTexture2D::997183964712449834::1695053250::1695053252::1::::<><>::
+Tree02_Top.png::CompressedTexture2D::6846775436054661715::1695053250::1695053252::1::::<><>::
+Tree02_Trunk.png::CompressedTexture2D::383428153574817122::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Items/Woods/::1695053250
+BroadleafWood_Harvest.png::CompressedTexture2D::1099991424456603133::1695053250::1695053252::1::::<><>::
+NeedieWood_Harvest.png::CompressedTexture2D::4681789221640990450::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Lights/::1695053250
+Light_Wall_01_off.png::CompressedTexture2D::4505814914366073158::1695053250::1695053252::1::::<><>::
+Light_Wall_01_on.png::CompressedTexture2D::6755045629555754564::1695053250::1695053252::1::::<><>::
+Light_Wall_002_off.png::CompressedTexture2D::178508602012525739::1695053250::1695053252::1::::<><>::
+Light_Wall_002_on.png::CompressedTexture2D::8267055179166307585::1695053250::1695053252::1::::<><>::
+Light_Wall_03.png::CompressedTexture2D::6164641107863129469::1695053250::1695053252::1::::<><>::
+Street lamp.png::CompressedTexture2D::4865363211122154297::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Maps/::1695053249
+BaseMap1@20.png::CompressedTexture2D::5346799604604879585::1695053249::1695053252::1::::<><>::
+BaseMap2@20.png::CompressedTexture2D::2083449004466081013::1695053249::1695053252::1::::<><>::
+Collisions@20.png::CompressedTexture2D::9081421790395784152::1695053249::1695053252::1::::<><>::
+Inside01_tiles@20.png::CompressedTexture2D::302463923732750052::1695053249::1695053252::1::::<><>::
+Inside02_tiles@20.png::CompressedTexture2D::4311138049086516588::1695053249::1695053252::1::::<><>::
+StoneMap1@20.png::CompressedTexture2D::1063574007306567027::1695053249::1695053252::1::::<><>::
+StoneMap2@20.png::CompressedTexture2D::6930059896935256983::1695053249::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Trees/::1695053250
+Tree_Trunk.png::CompressedTexture2D::7400844680590644527::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Trees/green/::1695053250
+green_01.png::CompressedTexture2D::3861728818772517421::1695053250::1695053252::1::::<><>::
+green_02.png::CompressedTexture2D::6603610073288519693::1695053250::1695053252::1::::<><>::
+green_03.png::CompressedTexture2D::5557516667941964253::1695053250::1695053252::1::::<><>::
+green_04.png::CompressedTexture2D::8908493043735633703::1695053250::1695053252::1::::<><>::
+green_05.png::CompressedTexture2D::3375529005941698433::1695053250::1695053252::1::::<><>::
+green_06.png::CompressedTexture2D::7061550437335141783::1695053250::1695053252::1::::<><>::
+green_07.png::CompressedTexture2D::3288827159109477123::1695053250::1695053252::1::::<><>::
+green_08.png::CompressedTexture2D::5937950468305020579::1695053250::1695053252::1::::<><>::
+green_09.png::CompressedTexture2D::2300953071748240451::1695053249::1695053252::1::::<><>::
+green_10.png::CompressedTexture2D::979401287936284792::1695053250::1695053252::1::::<><>::
+green_11.png::CompressedTexture2D::182592119884144270::1695053250::1695053252::1::::<><>::
+green_12.png::CompressedTexture2D::4456768742957958079::1695053250::1695053252::1::::<><>::
+green_13.png::CompressedTexture2D::4309362756103507234::1695053250::1695053252::1::::<><>::
+green_14.png::CompressedTexture2D::4099036140131834378::1695053250::1695053252::1::::<><>::
+green_15.png::CompressedTexture2D::724707058507665102::1695053250::1695053252::1::::<><>::
+green_16.png::CompressedTexture2D::3973208307717573635::1695053250::1695053252::1::::<><>::
+green_17.png::CompressedTexture2D::2288938753862055446::1695053250::1695053252::1::::<><>::
+green_18.png::CompressedTexture2D::7928045417611086085::1695053249::1695053252::1::::<><>::
+green_19.png::CompressedTexture2D::5374310959439651086::1695053249::1695053252::1::::<><>::
+green_20.png::CompressedTexture2D::9048173391329609076::1695053249::1695053252::1::::<><>::
+green_21.png::CompressedTexture2D::8277315273313694195::1695053249::1695053252::1::::<><>::
+green_22.png::CompressedTexture2D::8982457914649337871::1695053249::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Trees/pink/::1695053250
+pink_01.png::CompressedTexture2D::7178875832666363091::1695053250::1695053252::1::::<><>::
+pink_02.png::CompressedTexture2D::2054472755011326429::1695053250::1695053252::1::::<><>::
+pink_03.png::CompressedTexture2D::7467065925366271242::1695053250::1695053252::1::::<><>::
+pink_04.png::CompressedTexture2D::8151461329707715998::1695053250::1695053252::1::::<><>::
+pink_05.png::CompressedTexture2D::5316649959866545146::1695053250::1695053252::1::::<><>::
+pink_06.png::CompressedTexture2D::7328288500232653886::1695053250::1695053252::1::::<><>::
+pink_07.png::CompressedTexture2D::1865944394316030537::1695053250::1695053252::1::::<><>::
+pink_08.png::CompressedTexture2D::3916919906996889839::1695053250::1695053252::1::::<><>::
+pink_09.png::CompressedTexture2D::2837158585687652694::1695053250::1695053252::1::::<><>::
+pink_10.png::CompressedTexture2D::6271784621497971545::1695053250::1695053252::1::::<><>::
+pink_11.png::CompressedTexture2D::7966653806953283840::1695053250::1695053252::1::::<><>::
+pink_12.png::CompressedTexture2D::6685325853818967795::1695053250::1695053252::1::::<><>::
+pink_13.png::CompressedTexture2D::6656611414789405105::1695053250::1695053252::1::::<><>::
+pink_14.png::CompressedTexture2D::359245165637283120::1695053250::1695053252::1::::<><>::
+pink_15.png::CompressedTexture2D::7859830267450493170::1695053250::1695053252::1::::<><>::
+pink_16.png::CompressedTexture2D::7965901763978982232::1695053250::1695053252::1::::<><>::
+pink_17.png::CompressedTexture2D::4509276405423935199::1695053250::1695053252::1::::<><>::
+pink_18.png::CompressedTexture2D::4394418526446641222::1695053250::1695053252::1::::<><>::
+pink_19.png::CompressedTexture2D::5722916183396005295::1695053250::1695053252::1::::<><>::
+pink_20.png::CompressedTexture2D::4336964630907195662::1695053250::1695053252::1::::<><>::
+pink_21.png::CompressedTexture2D::4320212777484530881::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/Trees/yellow/::1695053250
+pink_01.png::CompressedTexture2D::5313431467792635103::1695053250::1695053252::1::::<><>::
+pink_02.png::CompressedTexture2D::5311064189073051186::1695053250::1695053252::1::::<><>::
+pink_03.png::CompressedTexture2D::5981756591590165898::1695053250::1695053252::1::::<><>::
+pink_04.png::CompressedTexture2D::2411609258585996846::1695053250::1695053252::1::::<><>::
+pink_05.png::CompressedTexture2D::1151517076784536634::1695053250::1695053252::1::::<><>::
+pink_06.png::CompressedTexture2D::3991772149968166182::1695053250::1695053252::1::::<><>::
+pink_07.png::CompressedTexture2D::2749988297741376744::1695053250::1695053252::1::::<><>::
+pink_08.png::CompressedTexture2D::2624036140931526388::1695053250::1695053252::1::::<><>::
+pink_09.png::CompressedTexture2D::7593347612181940862::1695053250::1695053252::1::::<><>::
+pink_10.png::CompressedTexture2D::3586663259067060680::1695053250::1695053252::1::::<><>::
+pink_11.png::CompressedTexture2D::8332532069994923038::1695053250::1695053252::1::::<><>::
+pink_12.png::CompressedTexture2D::3442056923275770250::1695053250::1695053252::1::::<><>::
+pink_13.png::CompressedTexture2D::8701901096608731207::1695053250::1695053252::1::::<><>::
+pink_14.png::CompressedTexture2D::2660453841827339126::1695053250::1695053252::1::::<><>::
+pink_15.png::CompressedTexture2D::8680300462100233789::1695053250::1695053252::1::::<><>::
+pink_16.png::CompressedTexture2D::3905703814024743587::1695053250::1695053252::1::::<><>::
+pink_17.png::CompressedTexture2D::4535165377238826281::1695053250::1695053252::1::::<><>::
+pink_18.png::CompressedTexture2D::3229022156109967381::1695053250::1695053252::1::::<><>::
+pink_19.png::CompressedTexture2D::8450067546033641316::1695053250::1695053252::1::::<><>::
+pink_20.png::CompressedTexture2D::4752649677649784489::1695053250::1695053252::1::::<><>::
+pink_21.png::CompressedTexture2D::1619414764791940247::1695053250::1695053252::1::::<><>::
+pink_22.png::CompressedTexture2D::1704872824608549742::1695053250::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Art/UI/::1695053249
+ui_button_01.png::CompressedTexture2D::5013433627769758048::1695053249::1695053252::1::::<><>::
+ui_button_02.png::CompressedTexture2D::3158392753272456500::1695053249::1695053252::1::::<><>::
+ui_button_set.png::CompressedTexture2D::2231074542377475272::1695053249::1695053252::1::::<><>::
+ui_check.png::CompressedTexture2D::2308308219958025407::1695053249::1695053252::1::::<><>::
+ui_coin_bg.png::CompressedTexture2D::5122992780416147552::1695053249::1695053252::1::::<><>::
+ui_dialogue.png::CompressedTexture2D::6849021098591897124::1695053249::1695053252::1::::<><>::
+ui_food.png::CompressedTexture2D::2027088875199332651::1695053249::1695053252::1::::<><>::
+ui_handle.png::CompressedTexture2D::5286694645989230650::1695053249::1695053252::1::::<><>::
+ui_head_01.png::CompressedTexture2D::8201541388732442447::1695053249::1695053252::1::::<><>::
+ui_head_02.png::CompressedTexture2D::8410592910648176050::1695053249::1695053252::1::::<><>::
+ui_pack_00-1.png::CompressedTexture2D::7618215359579955487::1695053249::1695053252::1::::<><>::
+ui_pack_00.png::CompressedTexture2D::9163794128318925092::1695053249::1695053252::1::::<><>::
+ui_pack_01.png::CompressedTexture2D::6399845050867552837::1695053249::1695053252::1::::<><>::
+ui_pack_02.png::CompressedTexture2D::6236219724369733124::1695053249::1695053252::1::::<><>::
+ui_pack_03.png::CompressedTexture2D::862537927292410973::1695053249::1695053252::1::::<><>::
+ui_pack_04.png::CompressedTexture2D::588014544893516728::1695053249::1695053252::1::::<><>::
+ui_pack_05.png::CompressedTexture2D::2480701319173854635::1695053249::1695053252::1::::<><>::
+ui_pack_06.png::CompressedTexture2D::5454511669819062870::1695053249::1695053252::1::::<><>::
+ui_pack_07.png::CompressedTexture2D::458270002837956473::1695053249::1695053252::1::::<><>::
+ui_paper.png::CompressedTexture2D::2317257500854587034::1695053249::1695053252::1::::<><>::
+ui_paper_01.png::CompressedTexture2D::770609608440887778::1695053249::1695053252::1::::<><>::
+ui_paper_02.png::CompressedTexture2D::8991539619228840661::1695053249::1695053252::1::::<><>::
+ui_paper_03.png::CompressedTexture2D::2454562787031483261::1695053249::1695053252::1::::<><>::
+ui_paper_04.png::CompressedTexture2D::1933094533405204665::1695053249::1695053252::1::::<><>::
+ui_paper_05.png::CompressedTexture2D::2530844684160221064::1695053249::1695053252::1::::<><>::
+ui_paper_06.png::CompressedTexture2D::8398309223933494786::1695053249::1695053252::1::::<><>::
+ui_paper_07.png::CompressedTexture2D::6975366017077928422::1695053249::1695053252::1::::<><>::
+ui_screen_frame.png::CompressedTexture2D::7125063074579940444::1695053249::1695053252::1::::<><>::
+ui_select.png::CompressedTexture2D::3838528529573157290::1695053249::1695053252::1::::<><>::
+ui_selected_highlight.png::CompressedTexture2D::7437263860042573894::1695053249::1695053252::1::::<><>::
+ui_sign.png::CompressedTexture2D::2589666862337694890::1695053249::1695053252::1::::<><>::
+ui_slot.png::CompressedTexture2D::1064980487345713182::1695053249::1695053252::1::::<><>::
+ui_slot_frame.png::CompressedTexture2D::8297308528800080739::1695053249::1695053252::1::::<><>::
+ui_talk_01.png::CompressedTexture2D::8531621140070195471::1695053249::1695053252::1::::<><>::
+ui_time_00.png::CompressedTexture2D::8048277591294236694::1695053249::1695053252::1::::<><>::
+ui_time_01.png::CompressedTexture2D::466365867219206997::1695053249::1695053252::1::::<><>::
+ui_time_02.png::CompressedTexture2D::4816025753149022140::1695053249::1695053252::1::::<><>::
+ui_time_03.png::CompressedTexture2D::8800087006172681195::1695053249::1695053252::1::::<><>::
+ui_time_04.png::CompressedTexture2D::7962258360677364828::1695053249::1695053252::1::::<><>::
+ui_time_05.png::CompressedTexture2D::5648118104208876359::1695053249::1695053252::1::::<><>::
+ui_time_06.png::CompressedTexture2D::6141329192057955230::1695053249::1695053252::1::::<><>::
+ui_time_07.png::CompressedTexture2D::2590623502151255335::1695053249::1695053252::1::::<><>::
+ui_time_08.png::CompressedTexture2D::1201266475846483769::1695053249::1695053252::1::::<><>::
+ui_time_09.png::CompressedTexture2D::5468692047435757415::1695053249::1695053252::1::::<><>::
+ui_time_10.png::CompressedTexture2D::4440398997208139157::1695053249::1695053252::1::::<><>::
+ui_time_11.png::CompressedTexture2D::8421065927368499817::1695053249::1695053252::1::::<><>::
+ui_time_12.png::CompressedTexture2D::1939450281764927524::1695053249::1695053252::1::::<><>::
+ui_time_13.png::CompressedTexture2D::9204080743012922983::1695053249::1695053252::1::::<><>::
+ui_time_14.png::CompressedTexture2D::5345905745435158636::1695053249::1695053252::1::::<><>::
+ui_time_15.png::CompressedTexture2D::7218333001207562111::1695053249::1695053252::1::::<><>::
+ui_time_16.png::CompressedTexture2D::8578992317197778768::1695053249::1695053252::1::::<><>::
+ui_time_17.png::CompressedTexture2D::9017157364361819161::1695053249::1695053252::1::::<><>::
+ui_time_18.png::CompressedTexture2D::7154157687899652898::1695053249::1695053252::1::::<><>::
+ui_time_circle.png::CompressedTexture2D::1119908523057981751::1695053249::1695053252::1::::<><>::
+ui_uncheck.png::CompressedTexture2D::663389047929430254::1695053249::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/M Studio/Tilemap/::1695053251
+::res://dodge_assets/art/Assets/M Studio/Tilemap/Palettes/::1695053251
+::res://dodge_assets/art/Assets/M Studio/Tilemap/Tiles/::1695053250
+::res://dodge_assets/art/Assets/M Studio/Tilemap/Tiles/Base/::1695053251
+::res://dodge_assets/art/Assets/Miniature Army 2D V.1/::1695053251
+::res://dodge_assets/art/Assets/Miniature Army 2D V.1/Animation/::1695053251
+::res://dodge_assets/art/Assets/Miniature Army 2D V.1/Animation/Knight/::1695053251
+attack.anim::::-1::1695053251::0::1::::<><>::
+casting.anim::::-1::1695053251::0::1::::<><>::
+die.anim::::-1::1695053251::0::1::::<><>::
+hurt.anim::::-1::1695053251::0::1::::<><>::
+idle.anim::::-1::1695053251::0::1::::<><>::
+victory.anim::::-1::1695053251::0::1::::<><>::
+walk.anim::::-1::1695053251::0::1::::<><>::
+::res://dodge_assets/art/Assets/Miniature Army 2D V.1/Animation/Merchant/::1695053251
+attack.anim::::-1::1695053251::0::1::::<><>::
+die.anim::::-1::1695053251::0::1::::<><>::
+hurt.anim::::-1::1695053251::0::1::::<><>::
+idle.anim::::-1::1695053251::0::1::::<><>::
+talking.anim::::-1::1695053251::0::1::::<><>::
+victory.anim::::-1::1695053251::0::1::::<><>::
+walk.anim::::-1::1695053251::0::1::::<><>::
+::res://dodge_assets/art/Assets/Miniature Army 2D V.1/Animation/Peasant/::1695053251
+attack.anim::::-1::1695053251::0::1::::<><>::
+casting.anim::::-1::1695053251::0::1::::<><>::
+die.anim::::-1::1695053251::0::1::::<><>::
+hurt.anim::::-1::1695053251::0::1::::<><>::
+idle.anim::::-1::1695053251::0::1::::<><>::
+victory.anim::::-1::1695053251::0::1::::<><>::
+walk.anim::::-1::1695053251::0::1::::<><>::
+::res://dodge_assets/art/Assets/Miniature Army 2D V.1/Animation/Priest/::1695053251
+attack.anim::::-1::1695053251::0::1::::<><>::
+casting.anim::::-1::1695053251::0::1::::<><>::
+die.anim::::-1::1695053251::0::1::::<><>::
+hurt.anim::::-1::1695053251::0::1::::<><>::
+idle.anim::::-1::1695053251::0::1::::<><>::
+victory.anim::::-1::1695053251::0::1::::<><>::
+walk.anim::::-1::1695053251::0::1::::<><>::
+::res://dodge_assets/art/Assets/Miniature Army 2D V.1/Animation/Soldier/::1695053251
+attack.anim::::-1::1695053251::0::1::::<><>::
+casting.anim::::-1::1695053251::0::1::::<><>::
+die.anim::::-1::1695053251::0::1::::<><>::
+hurt.anim::::-1::1695053251::0::1::::<><>::
+idle.anim::::-1::1695053251::0::1::::<><>::
+victory.anim::::-1::1695053251::0::1::::<><>::
+walk.anim::::-1::1695053251::0::1::::<><>::
+::res://dodge_assets/art/Assets/Miniature Army 2D V.1/Animation/Thief/::1695053251
+attack.anim::::-1::1695053251::0::1::::<><>::
+casting.anim::::-1::1695053251::0::1::::<><>::
+die.anim::::-1::1695053251::0::1::::<><>::
+hurt.anim::::-1::1695053251::0::1::::<><>::
+idle.anim::::-1::1695053251::0::1::::<><>::
+victory.anim::::-1::1695053251::0::1::::<><>::
+walk.anim::::-1::1695053251::0::1::::<><>::
+::res://dodge_assets/art/Assets/Miniature Army 2D V.1/Original artwork/::1695053251
+::res://dodge_assets/art/Assets/Miniature Army 2D V.1/Prefab/::1695053251
+::res://dodge_assets/art/Assets/Miniature Army 2D V.1/Scene/::1695053251
+::res://dodge_assets/art/Assets/Miniature Army 2D V.1/Sprite/::1695053251
+miniature-army1024x768.png::CompressedTexture2D::1078572179243715470::1695053251::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/Samples/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/::1695053251
+LICENSE.md::TextFile::-1::1695053251::0::1::::<><>::
+README.md::TextFile::-1::1695053251::0::1::::<><>::
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/1 Simple/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/1 Simple/Animation/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/1 Simple/Animation/Animators/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/1 Simple/Animation/Clips/::1695053251
+Boris Animation.anim::::-1::1695053251::0::1::::<><>::
+Boris Move.anim::::-1::1695053251::0::1::::<><>::
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/1 Simple/Sprites/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/2 Single Skinned Sprite/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/2 Single Skinned Sprite/Animation/::1695053251
+Plunkah_Idle.anim::::-1::1695053251::0::1::::<><>::
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/2 Single Skinned Sprite/Sprites/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/3 Character/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/3 Character/Animation/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/3 Character/Animation/Animators/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/3 Character/Animation/Clips/::1695053251
+Idle.anim::::-1::1695053251::0::1::::<><>::
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/3 Character/Sprites/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/4 SpriteSwap/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/4 SpriteSwap/Animation/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/4 SpriteSwap/Animation/Animators/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/4 SpriteSwap/Animation/Clips/::1695053251
+Idle.anim::::-1::1695053251::0::1::::<><>::
+knightboy_attack01.anim::::-1::1695053251::0::1::::<><>::
+knightboy_die.anim::::-1::1695053251::0::1::::<><>::
+knightboy_hit.anim::::-1::1695053251::0::1::::<><>::
+knightboy_idle.anim::::-1::1695053251::0::1::::<><>::
+knightboy_run.anim::::-1::1695053251::0::1::::<><>::
+Talk.anim::::-1::1695053251::0::1::::<><>::
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/4 SpriteSwap/Scripts/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/4 SpriteSwap/Scripts/Editor/::1695053251
+BuildAssetBundle.cs::CSharpScript::-1::1695053251::0::1::::<><>::
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/4 SpriteSwap/Scripts/Runtime/::1695053251
+AssemblyInfo.cs::CSharpScript::-1::1695053251::0::1::::<><>::
+LoadSwapDLC.cs::CSharpScript::-1::1695053251::0::1::::<><>::
+RuntimeSwap.cs::CSharpScript::-1::1695053251::0::1::::<><>::
+SwapFullSkin.cs::CSharpScript::-1::1695053251::0::1::::<><>::
+SwapPart.cs::CSharpScript::-1::1695053251::0::1::::<><>::
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/4 SpriteSwap/Sprite Library/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/4 SpriteSwap/Sprites/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/Extras/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/Extras/Attachment Points/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/Extras/Attachment Points/Animation/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/Extras/Attachment Points/Animation/Animators/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/Extras/Attachment Points/Animation/Clips/::1695053251
+Idle.anim::::-1::1695053251::0::1::::<><>::
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/Extras/Attachment Points/Sprites/::1695053251
+Fei's Staff.png::CompressedTexture2D::6018378635724022835::1695053251::1695053252::1::::<><>::
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/Extras/IK/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/Extras/IK/Animation/::1695053251
+Plunkah_Idle.anim::::-1::1695053251::0::1::::<><>::
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/Extras/IK/Sprites/::1695053251
+::res://dodge_assets/art/Assets/Samples/2D Animation/9.0.3/Samples/Scripts/::1695053251
+AnimationSampleDependency.cs::CSharpScript::-1::1695053251::0::1::::<><>::
+::res://dodge_assets/art/Assets/Scenes/::1695053251
+::res://dodge_assets/art/Assets/Scripts/::1695053251
+Player.cs::CSharpScript::-1::1695053251::0::1::::<><>::
+::res://dodge_assets/art/Assets/Settings/::1695053249
+::res://dodge_assets/art/Assets/Settings/Scenes/::1695053249
+::res://dodge_assets/art/Assets/StreamingAssets/::1695053251
+::res://dodge_assets/art/Assets/StreamingAssets/2DAnimationSampleAssetBundles/::1695053251
+::res://dodge_assets/fonts/::1694965052
+FONTLOG.txt::TextFile::-1::1694965052::0::1::::<><>::
+LICENSE.txt::TextFile::-1::1694965052::0::1::::<><>::
+Xolonium-Regular.ttf::FontFile::5674233768727970221::1694965052::1694965052::1::::<><>::
+::res://scenes/::1695040624
+Ball.tscn::PackedScene::3836199878338280048::1694707651::0::1::::<><>::uid://iq21akawkqac
+Main.tscn::PackedScene::6103693764260281369::1694964016::0::1::::<><>::res://Main.gd<>uid://buwjwffmgkbho
+node_2d.tscn::PackedScene::6399532269607493697::1694964038::0::1::::<><>::uid://dbs8r1uhrcbhs::::res://scenes/sprite_2d.tscn
+player.tscn::PackedScene::5465222826450274013::1695040624::0::1::::<><>::uid://bed1m6kscroea::::res://dodge_assets/art/playerGrey_walk1.png<>res://scenes/player.gd<>uid://cf4yijoph2mvq::::res://dodge_assets/art/playerGrey_up1.png<>uid://6dydcji1iod6::::res://dodge_assets/art/playerGrey_walk2.png<>uid://bl6f80kd770gx::::res://dodge_assets/art/playerGrey_up2.png
+player.gd::GDScript::-1::1695040606::0::1::::<>Area2D<>::
+sprite_2d.tscn::PackedScene::7268645110392125828::1694963549::0::1::::<><>::uid://s6yhl1vnqotd::::res://icon.png<>res://Sprite2D.gd
